@@ -1,4 +1,5 @@
 {
-  "buildCommand": "echo 'No build needed'",
-  "outputDirectory": "public"  // 替换为你的HTML所在文件夹
+  "rewrites": [
+    { "source": "/", "destination": "/zihan-profile-updated.html" }
+  ]
 }
