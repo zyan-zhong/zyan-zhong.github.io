@@ -1,4 +1,4 @@
-
 {
-  "outputDirectory": "public"  // zihan-profile-updated.html
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": "public"  // 替换为你的HTML所在文件夹
 }
